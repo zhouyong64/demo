@@ -9,12 +9,20 @@ This is my abstract
 ## Brief introduction
 Best system
 
-## Severely out-of-tune Examples
+## Comparison with Previous Work (mildy out-of-tune examples, in English and in Korean)
 
-| src | ref | converted | misc | 
+| src | ref | other | ours | 
 | :--- | :--- | :--- | :--- |
-| <audio src="wavs/src/fy_startGotIt_vc2child.wav" controls preload></audio> | <audio src="wavs/corrected/fy_startGotIt_vc2child.wav" controls preload></audio> | <audio src="wavs/corrected/fy_startGotIt_vc2child.wav" controls preload></audio> | <audio src="wavs/corrected/fy_startGotIt_vc2child.wav" controls preload></audio> |
+| <audio src="4songs/korean_paper_src/letItGo.mp3" controls preload></audio> | <audio src="4songs/korean_paper_ref/letItGo.mp3" controls preload></audio> | <audio src="4songs/korean_paper_other/letItGo.mp3" controls preload></audio> | <audio src="4songs/korean_paper_ours/letItGo.mp3" controls preload></audio> |
+| <audio src="4songs/korean_paper_src/loveu.mp3" controls preload></audio> | <audio src="4songs/korean_paper_ref/loveu.mp3" controls preload></audio> | <audio src="4songs/korean_paper_other/loveu.mp3" controls preload></audio> | <audio src="4songs/korean_paper_ours/loveu.mp3" controls preload></audio> |
 | --- | --- | --- | --- |
 
+## Severely out-of-tune Examples in English
+
+| src | ref | ours |
+| :--- | :--- | :--- | :--- |
+| <audio src="english_tests/src/middle3.mp3" controls preload></audio> | <audio src="english_tests/ref/middle3.mp3" controls preload></audio> | <audio src="english_tests/ours_mp3/middle3.mp3" controls preload></audio> |
+| <audio src="english_tests/src/lovein2.mp3" controls preload></audio> | <audio src="english_tests/ref/lovein2.mp3" controls preload></audio> | <audio src="english_tests/ours_mp3/lovein2.mp3" controls preload></audio> |
+| --- | --- | --- | --- |
 
 
