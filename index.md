@@ -1,8 +1,5 @@
 # <center> Audio Demo for "Singing Voice Conversion for Severely Out-of-Tune Singings" </center>
 
-## Abstract
-This paper presents a method for correcting severely out-of-tune singing voices using a reference singing. Unlike some prior work where the correction can only be performed on mildly out-of-tune singings, we propose using a strong linguistic feature alone to do temporal alignment that can work even when the source singing is far off. As large changes in pitch can change the timbre of the voice, we propose a method for adjusting the pitch before applying pitch shifting algorithms. Our experiments show the proposed method can work on severely out-of-tune singings while achieving comparable performance on mildly out-of-tune singings as compared to prior work. The method also works in some cases where the source audio is a speaking voice, in effect doing a speech-to-singing conversion. 
-
 
 ## Comparison with Previous Work (mildy out-of-tune singings, in English and in Korean)
 SET: Sangeon Yong and Juhan Nam, “Singing expression transfer from one voice to another for a given song,” in ICASSP. IEEE, 2018.
