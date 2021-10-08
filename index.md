@@ -50,12 +50,12 @@ This paper presents a method for correcting severely out-of-tune singing voices 
 
 | source | reference | Converted |
 | :--- | :--- | :--- |
+| <audio src="read2sing_tests/src_mp3/sunshine.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/sunshine.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/sunshine.mp3" controls preload></audio> |
+| <audio src="read2sing_tests/src_mp3/middle.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/middle.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/middle.mp3" controls preload></audio> |
 | <audio src="read2sing_tests/src_mp3/ADIZ_13_1.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/ADIZ_13_1.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/ADIZ_13_1.mp3" controls preload></audio> |
 | <audio src="read2sing_tests/src_mp3/ADIZ_18_1.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/ADIZ_18_1.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/ADIZ_18_1.mp3" controls preload></audio> |
 | <audio src="read2sing_tests/src_mp3/JLEE_11_1.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/JLEE_11_1.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/JLEE_11_1.mp3" controls preload></audio> |
 | <audio src="read2sing_tests/src_mp3/ZHIY_03_1.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/ZHIY_03_1.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/ZHIY_03_1.mp3" controls preload></audio> |
-| <audio src="read2sing_tests/src_mp3/sunshine.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/sunshine.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/sunshine.mp3" controls preload></audio> |
-| <audio src="read2sing_tests/src_mp3/middle.mp3" controls preload></audio> | <audio src="read2sing_tests/ref/middle.wav" controls preload></audio> | <audio src="read2sing_tests/ours_mp3/middle.mp3" controls preload></audio> |
 | --- | --- | --- |
 
 ## The Effects of Using Pitch Adjustment
