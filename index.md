@@ -1,4 +1,4 @@
-# <center> Audio Demo for "Singing Voice Conversion for Severely Out-of-Tune Singing" </center>
+# <center> Audio Demo for "Singing Voice Correction for Severely Out-of-Tune Singing" </center>
 
 ## Abstract
 This paper presents a method for correcting severely out-of-tune singing voices using a reference singing.
